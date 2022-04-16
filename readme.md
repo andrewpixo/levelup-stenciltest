@@ -6,7 +6,7 @@ This is a proof of concept of creating web components with the Stencil library, 
 
 1. Install dependencies for the stencil project
 `
-    cd stencil-project
+    cd stencil-project \n
     npm i
 `
 2. Build stencil project
@@ -15,7 +15,7 @@ This is a proof of concept of creating web components with the Stencil library, 
 `
 3. Install dependencies for the react project
 `
-    cd react-project
+    cd react-project \n
     npm i
 `
 4. Start the react project
